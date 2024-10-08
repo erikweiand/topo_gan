@@ -6,5 +6,6 @@ Heightmap dataset: Alps (N44E006-N48E015).
 The latest snapshot was taken after 68 epochs, and much longer training is likely required (my GPU does not like this though). However, some heightmaps start to be acceptable:
 
 <img src="last_training_output.png" width="720"/>
+Visualizations of acceptable 256x256 tiles rendered using Blender 3D are shown below:
 
-Further visualizations of single 256x256 tiles using Blender 3D will follow.
+<img src="topo_gan_output_blender.png" width="720"/>
